@@ -1,8 +1,7 @@
 
-// // 
 
 // //cses problem 1  
-// //weird algorithm
+weird algorithm
 
 
 // #include<bits/stdc++.h>
@@ -26,5 +25,4 @@
 // }
 
 
-//missing number
 
